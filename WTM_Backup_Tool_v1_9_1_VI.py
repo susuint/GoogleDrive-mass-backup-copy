@@ -4,7 +4,7 @@
 Tự động tạo bởi Colab.
 
 File gốc nằm tại
-    https://colab.research.google.com/drive/16q4haxQuYTLg367C92TqG2UF24Bsb5ya
+    https://colab.research.google.com/drive/xxxxxx
 """
 
 # -*- coding: utf-8 -*-
@@ -109,8 +109,8 @@ logging.getLogger('google_auth_httplib2').setLevel(logging.ERROR)
 # ============================================================
 
 # 📁 ID THƯ MỤC (BẮT BUỘC)
-SOURCE_FOLDER_ID = '1ZY4ab0XlPHa5_t10XnSvPbWUvJRdN4Nx'  # ⚠️ THAY ĐỔI CÁI NÀY
-BACKUP_PARENT_ID = '1l22lxlpDoK6meCTNm5v_5d4gmxI1oseO'  # ⚠️ THAY ĐỔI CÁI NÀY
+SOURCE_FOLDER_ID = '1ZY4ab0Xl123456789abcd'  # ⚠️ THAY ĐỔI CÁI NÀY
+BACKUP_PARENT_ID = '1l22l645436789axxttuii'  # ⚠️ THAY ĐỔI CÁI NÀY
 
 # 🏷️ Cài đặt
 FOLDER_SUFFIX = '_BACKUP'
